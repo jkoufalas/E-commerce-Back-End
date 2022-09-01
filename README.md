@@ -31,7 +31,7 @@ There are 3 main tables, Categories, Products and Tags.
 ## Link
 
 The link to the GitHub repository of the assignment is <br>
-[https://github.com/jkoufalas/Employee-Tracker](https://github.com/jkoufalas/Employee-Tracker)
+[https://github.com/jkoufalas/E-commerce-Back-End](https://github.com/jkoufalas/E-commerce-Back-End)
 
 ---
 
@@ -145,7 +145,7 @@ Express.js is used to interact to the database using the routes
 
 ## Video Demo
 
-[Link to Demo](https://youtu.be/vhIIxC-qzC0)
+[Link to Demo](https://youtu.be/an-hQJ59-EA)
 
 Select the 1080p option for better resolution of text.
 
