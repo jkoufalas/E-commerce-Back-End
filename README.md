@@ -150,7 +150,7 @@ Express.js is used to interact to the database using the routes
 
 ## Video Demo
 
-[Link to Demo](https://youtu.be/an-hQJ59-EA)
+[Link to Demo](https://youtu.be/o9FQRxDxySw)
 
 Select the 1080p option for better resolution of text.
 
