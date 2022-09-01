@@ -9,7 +9,11 @@ There are 3 main tables, Categories, Products and Tags.
  - A Product can have many Tags
  - A Tag can be against many Products.
 
+These tables are related to develop a relationship as an e-commerce backend .
 
+Express JS routing is used so that a front end can interface with the back end implementation. 
+This way the database can be searched, items can be created, updated and deleted and relationships with data in tables created properly in the back end.
+The details of the API calls are explained in the Express API Information section.
 
 
 
@@ -41,6 +45,7 @@ The dependancies are listed within the package.json file. The dependancies for t
  - sequelize
  - dotenv
  - mysql2
+ - expressjs
 
 Since the dependancies are listed within the lock file, they will autmatically installed with the following command
 
